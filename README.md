@@ -33,6 +33,10 @@ ros2 run imu mpu6050uart
 ```
 to run our node.
 
+## screenshots
+
+![screenshot](./Screenshot_2022-07-14_14-00-43.png)
+
 ## change config
 
 to change configurations you can modify our settings,which locates at the top of our source files(MACROS).

@@ -41,6 +41,10 @@ to change configurations you can modify our settings,which locates at the top of
 
 our topic name is **"mpu6050"**.
 
+## Communication protocol
+
+we use UART as interface. if you use i2c, then you can wait for a while cause we will cover that later.
+
 ## Note
 
 1. we woule like to keep this imu node simple, so we didnot use parameters or other staff that makes it complicated.
